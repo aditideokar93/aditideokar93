@@ -7,7 +7,6 @@
 
 ### Connect with me:
 [<img align="left" alt="aditideokar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="aditideokar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -38,4 +37,3 @@
 
 
 [linkedin]: https://www.linkedin.com/in/aditi-deokar/
-[gmail]: <a href = "mailto: abc@example.com"></a>
