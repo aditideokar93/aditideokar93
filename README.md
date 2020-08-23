@@ -16,7 +16,6 @@
 - Tableau, Jupyter Notebook, RStudio, Docker, Databricks, GitHub, Jenkins, JIRA, SAS, MS Excel
 - Google BigQuery, DataFlow, DataPrep, Storage, AI Platform
 
-<br />
 
 ### 📕 Latest Blogs/Articles
 
@@ -31,10 +30,10 @@
 <!-- BLOG-POST-LIST:START -->
 - Earned badges by completing various hands-on quests and labs on Qwiklabs and learned about Google Cloud Platform's products like BigQuery, DataFlow, DataPrep, Data Studio, AI Platform, Cloud SQL, Cloud Storage, Compute Engine, Cloud Composer, Cloud DataFusion
 
-### Quests completed-
-1. [BigQuery Basics for Data Analysts](https://google.qwiklabs.com/public_profiles/b13044d8-cee2-4e63-a7e6-c77018cccdfd)
-2. [Data Engineering](https://google.qwiklabs.com/public_profiles/b13044d8-cee2-4e63-a7e6-c77018cccdfd)
-<!-- BLOG-POST-LIST:END -->
+    ### Quests completed-
+    1. [BigQuery Basics for Data Analysts](https://google.qwiklabs.com/public_profiles/b13044d8-cee2-4e63-a7e6-c77018cccdfd)
+    2. [Data Engineering](https://google.qwiklabs.com/public_profiles/b13044d8-cee2-4e63-a7e6-c77018cccdfd)
+    <!-- BLOG-POST-LIST:END -->
 
 
 [linkedin]: https://www.linkedin.com/in/aditi-deokar/
