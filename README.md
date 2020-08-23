@@ -7,7 +7,7 @@
 
 ### Connect with me:
 [<img align="left" alt="aditideokar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="aditideokar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="aditideokar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" href = "mailto: aditideokar93@gmail.com"/>]
 
 <br />
 
@@ -38,4 +38,3 @@
 
 
 [linkedin]: https://www.linkedin.com/in/aditi-deokar/
-[gmail]: aditideokar93@gmail.com
