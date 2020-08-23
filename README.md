@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Aditi! 👋
 
 - 🌱 I’m currently learning Google Cloud Platform (Qwiklabs), Amazon Web Services 
 - 🤔 I’m actively looking for fulltime job opportunities in Data Analysis, Data Engineering, Data Science, Business Intelligence, or Software Engineering
@@ -26,15 +26,15 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-### Latest Accomplishments
+### 🏆 Latest Accomplishments
 
-<!-- ACCOMPLISHMENT:START -->
+<!-- BLOG-POST-LIST:START -->
 - Earned badges by completing various hands-on quests and labs on Qwiklabs and learned about Google Cloud Platform's products like BigQuery, DataFlow, DataPrep, Data Studio, AI Platform, Cloud SQL, Cloud Storage, Compute Engine, Cloud Composer, Cloud DataFusion
 
-Quests completed-
+### Quests completed-
 1. [BigQuery Basics for Data Analysts] (https://google.qwiklabs.com/public_profiles/b13044d8-cee2-4e63-a7e6-c77018cccdfd)
 2. [Data Engineering] (https://google.qwiklabs.com/public_profiles/b13044d8-cee2-4e63-a7e6-c77018cccdfd)
-<!-- ACCOMPLISHMENT:END -->
+<!-- BLOG-POST-LIST:END -->
 
 
 [linkedin]: https://www.linkedin.com/in/aditi-deokar/
