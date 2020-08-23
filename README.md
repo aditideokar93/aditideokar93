@@ -7,7 +7,7 @@
 
 ### Connect with me:
 [<img align="left" alt="aditideokar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="aditideokar | Gmail" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fgmail_281769&psig=AOvVaw2sAgkLNkTFNRL0pFbwQeJQ&ust=1598249274976000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiZoNTUsOsCFQAAAAAdAAAAABAD" />][gmail]
+[<img align="left" alt="aditideokar | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />][gmail]
 
 <br />
 
