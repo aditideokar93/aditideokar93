@@ -28,6 +28,8 @@
 ### 🏆 Latest Accomplishments
 
 <!-- BLOG-POST-LIST:START -->
+- Recognized by the Qwiklabs as the **"Winner of the Week!"** for completing the quests/games and earning badges while competing with other 1000 participants
+    [Qwiklabs Winner of the Week!](https://www.linkedin.com/posts/qwiklabs-inc-_googlecloudbadge-activity-6706229053227069440-J8Y6)
 - Earned badges by completing various hands-on quests and labs on Qwiklabs and learned about Google Cloud Platform's products like BigQuery, DataFlow, DataPrep, Data Studio, AI Platform, Cloud SQL, Cloud Storage, Compute Engine, Cloud Composer, Cloud DataFusion
 
     ### Quests completed-
