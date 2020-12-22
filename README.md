@@ -7,7 +7,7 @@
 
 ### Connect with me:
 [<img align="left" alt="aditideokar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="aditideokar | Tableau" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsenturus.com%2Fblog%2Fsix-ways-to-publish-share-tableau-content%2F&psig=AOvVaw30D6ieE2UFAo0sUUVkSYdV&ust=1608752399664000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDzwPCr4u0CFQAAAAAdAAAAABAD" />][linkedin]
+[<img align="left" alt="aditideokar | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" />][Tabelau]
 
 <br />
 
@@ -43,3 +43,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/aditi-deokar/
+[Tabelau]: https://public.tableau.com/profile/aditi.deokar#!/
